@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "GUI_GPS", "GUI_GPS\GUI_GPS.pyproj", "{C62E18E3-E6AE-4FAC-9E0C-6A011366345F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C62E18E3-E6AE-4FAC-9E0C-6A011366345F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C62E18E3-E6AE-4FAC-9E0C-6A011366345F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1FC77FB-534F-4A1B-A8F6-4542A5ABFF72}
+	EndGlobalSection
+EndGlobal
